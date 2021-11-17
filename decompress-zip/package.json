@@ -1,0 +1,10 @@
+{
+    "name": "decompress-zip",
+    "version": "1.0.0",
+    "description": "decompress-zip",
+    "dependencies": {
+        "adm-zip": "^0.5.5",
+        "decompress": "^4.2.1",
+        "unzipper": "^0.10.11"
+    }
+}
